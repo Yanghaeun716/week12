@@ -37,7 +37,7 @@
 
     https://github.com/mhjoon99/SMU-Time
     
-    
-###
-    
+
+
+![image](https://user-images.githubusercontent.com/80022793/119386487-9443fd00-bd02-11eb-804a-8040af40edf3.png)
     
